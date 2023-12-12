@@ -1,2 +1,0 @@
-# BGIT-BOOTCAMP
-BGIT Frontend
